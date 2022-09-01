@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="System" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e804879-8c21-4800-8ee8-d7dfa6a8d7f5" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> 87573fb... Update README.md & Add Previews.
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[HT69B0206921]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VideoMeeting" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VideoMeeting" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VideoMeeting" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VideoMeeting" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ngdpP0CZkkbD0EHifQKiI58dSm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_API_29_2" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-08T06:29:05.397Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-284493744">
+      <recent name="com.rick.videomeeting.activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="VideoMeeting.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practices_Android_ChiragKachhadiya_VideoMeeting [signingReport]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="signingReport" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Practices_Android_ChiragKachhadiya_VideoMeeting [signingReport]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e804879-8c21-4800-8ee8-d7dfa6a8d7f5" name="Default Changelist" comment="" />
+      <created>1611815849152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611815849152</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Android Video Meeting App Development | Episode #2 | Setup Firebase Cloud Messaging &amp; Firestore&#10;https://www.youtube.com/watch?v=P54aEc4QYzI&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=2">
+      <created>1611822574630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611822574630</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Android Video Meeting App Development | Episode #3 | Sign Up Using Firestore&#10;https://www.youtube.com/watch?v=JO9McV-_2uE&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=3">
+      <created>1611890488483</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611890488483</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Android Video Meeting App Development | Episode #4 | Sign In Using Firestore &amp; Shared Preferences&#10;https://www.youtube.com/watch?v=aVwLY4ngoVY&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=4">
+      <created>1611905763368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611905763368</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Android Video Meeting App Development | Episode #5 | Working With FCM Token &amp; Sign Out&#10;https://www.youtube.com/watch?v=JDsgAReslD4&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=5">
+      <created>1611912567793</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611912567793</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Android Video Meeting App Development | Episode #6 | Display User List From Firestore Database&#10;https://www.youtube.com/watch?v=4DHTsIJNts8&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=6">
+      <created>1612332664419</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612332664419</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Android Video Meeting App Development | Episode #7 | Setup Retrofit | Additional Configurations&#10;https://www.youtube.com/watch?v=Q09KcjVfH6Q&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=7">
+      <created>1612334942069</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612334942069</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Android Video Meeting App Development | Episode #8 | Incoming &amp; Outgoing Invitation Screens Design&#10;https://www.youtube.com/watch?v=xc7KRwJGPH8&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=8">
+      <created>1612430695972</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612430695972</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1612435337915</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612435337915</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Android Video Meeting App Development | Episode #9 | Initiate Video Meeting(Send Meeting Invitation)&#10;https://www.youtube.com/watch?v=cQkuWMB_9SY&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=9">
+      <created>1612492558335</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612492558335</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Android Video Meeting App Development | Episode #10 | Accept, Reject &amp; Cancel Meeting Invitation&#10;https://www.youtube.com/watch?v=W5UrLfa3zk4&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=10">
+      <created>1612506348618</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612506348618</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Android Video Meeting App Development | Episode #11 | The Video Meeting Using Jitsi Meet&#10;https://www.youtube.com/watch?v=iVK9BrbLPz0&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=11">
+      <created>1612509567808</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612509567808</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Android Video Meeting App Development | Episode #12 | The Audio Meeting Using Jitsi Meet&#10;https://www.youtube.com/watch?v=ax1-qbhI-Tg&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=12">
+      <created>1612511546616</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612511546616</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Android Video Meeting App Development | Episode #13 | Video Meeting (Conference) With Multiple Users&#10;https://www.youtube.com/watch?v=YF7cEz33HWc&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=13">
+      <created>1612520362394</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612520362394</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Android Video Meeting App Development | Episode #13 | Video Meeting (Conference) With Multiple Users&#10;https://www.youtube.com/watch?v=YF7cEz33HWc&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=13">
+      <created>1612763641844</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612763641844</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Android Video Meeting App Development | Episode #14 | Disable Battery Optimizations&#10;https://www.youtube.com/watch?v=Y7hCZqLYgGE&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=14">
+      <created>1612766002412</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612766002412</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Android Video Meeting App Development | Episode #2 | Setup Firebase Cloud Messaging &amp; Firestore&#10;https://www.youtube.com/watch?v=P54aEc4QYzI&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=2" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #3 | Sign Up Using Firestore&#10;https://www.youtube.com/watch?v=JO9McV-_2uE&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=3" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #4 | Sign In Using Firestore &amp; Shared Preferences&#10;https://www.youtube.com/watch?v=aVwLY4ngoVY&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=4" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #5 | Working With FCM Token &amp; Sign Out&#10;https://www.youtube.com/watch?v=JDsgAReslD4&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=5" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #6 | Display User List From Firestore Database&#10;https://www.youtube.com/watch?v=4DHTsIJNts8&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=6" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #7 | Setup Retrofit | Additional Configurations&#10;https://www.youtube.com/watch?v=Q09KcjVfH6Q&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=7" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #8 | Incoming &amp; Outgoing Invitation Screens Design&#10;https://www.youtube.com/watch?v=xc7KRwJGPH8&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=8" />
+    <MESSAGE value="test" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #9 | Initiate Video Meeting(Send Meeting Invitation)&#10;https://www.youtube.com/watch?v=cQkuWMB_9SY&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=9" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #10 | Accept, Reject &amp; Cancel Meeting Invitation&#10;https://www.youtube.com/watch?v=W5UrLfa3zk4&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=10" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #11 | The Video Meeting Using Jitsi Meet&#10;https://www.youtube.com/watch?v=iVK9BrbLPz0&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=11" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #12 | The Audio Meeting Using Jitsi Meet&#10;https://www.youtube.com/watch?v=ax1-qbhI-Tg&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=12" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #13 | Video Meeting (Conference) With Multiple Users&#10;https://www.youtube.com/watch?v=YF7cEz33HWc&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=13" />
+    <MESSAGE value="Android Video Meeting App Development | Episode #14 | Disable Battery Optimizations&#10;https://www.youtube.com/watch?v=Y7hCZqLYgGE&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Android Video Meeting App Development | Episode #14 | Disable Battery Optimizations&#10;https://www.youtube.com/watch?v=Y7hCZqLYgGE&amp;list=PLam6bY5NszYNR54PiY_NN7hGS858xinq-&amp;index=14" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="801" y="260" width="374" height="585" key="#com.intellij.ide.util.MemberChooser" timestamp="1612517426930">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="801" y="260" width="374" height="585" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612517426930" />
+    <state x="167" y="125" width="1653" height="871" key="AVDManager" timestamp="1612750236907">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="871" key="AVDManager/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612750236907" />
+    <state x="576" y="310" width="824" height="484" key="AndroidCreateResourceFileDialog" timestamp="1612426938366">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="310" width="824" height="484" key="AndroidCreateResourceFileDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612426938366" />
+    <state x="810" y="344" width="357" height="416" key="AndroidCreateXmlResourceDialog" timestamp="1612427525564">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="810" y="344" width="357" height="416" key="AndroidCreateXmlResourceDialog/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612427525564" />
+    <state x="418" y="102" width="1140" height="901" key="CommitChangelistDialog2" timestamp="1612766001820">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="418" y="102" width="1140" height="901" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612766001820" />
+    <state width="1807" height="206" key="GridCell.Tab.0.bottom" timestamp="1612763604920">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="206" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612763604920" />
+    <state width="1807" height="206" key="GridCell.Tab.0.center" timestamp="1612763604920">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="206" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612763604920" />
+    <state width="1807" height="206" key="GridCell.Tab.0.left" timestamp="1612763604919">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="206" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612763604919" />
+    <state width="1807" height="206" key="GridCell.Tab.0.right" timestamp="1612763604920">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="206" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612763604920" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1612520395757">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612520395757" />
+    <state x="683" y="291" width="696" height="522" key="find.popup" timestamp="1612511284585">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="683" y="291" width="696" height="522" key="find.popup/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612511284585" />
+    <state x="656" y="257" key="search.everywhere.popup" timestamp="1612319739414">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" key="search.everywhere.popup/67.27.1853.1053/1920.0.1440.900@67.27.1853.1053" timestamp="1612319739414" />
+  </component>
+</project>
